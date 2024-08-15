@@ -19,8 +19,26 @@
 # print(courses)
 
 #how to do extend:
-courses = ['math', 'physics', 'science']
-courses_2 = ['art', 'education']
+# courses = ['math', 'physics', 'science']
+# courses_2 = ['art', 'education']
+#
+# courses.extend(courses_2)
+# print(courses)
 
-courses.extend(courses_2)
+#to remove anything:
+# courses = ['math', 'physics', 'science']
+#
+# courses.remove('math')
+# print(courses)
+
+#to reverse any thing:
+# courses = ['math', 'physics', 'science']
+#
+# courses.reverse()
+# print(courses)
+
+#to sort the list:
+courses = ['math', 'physics', 'science', 'art']
+
+courses.sort()
 print(courses)
