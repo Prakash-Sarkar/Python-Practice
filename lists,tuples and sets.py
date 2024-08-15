@@ -38,7 +38,22 @@
 # print(courses)
 
 #to sort the list:
-courses = ['math', 'physics', 'science', 'art']
+# courses = ['math', 'physics', 'science', 'art']
+#
+# courses.sort()
+# print(courses)
 
-courses.sort()
-print(courses)
+#how to sort words:
+# courses = ['math', 'physics', 'science', 'art']
+#
+# sorted_courses = sorted(courses)
+# print(sorted_courses)
+
+#to check anything that is available in the list or not:
+# courses = ['math', 'physics', 'science', 'art']
+# print('education'in courses)
+
+#for and index:
+courses = ['math', 'physics', 'science', 'art']
+for index, item in enumerate(courses, start=1):
+    print(index, item)
