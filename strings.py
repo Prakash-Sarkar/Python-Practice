@@ -49,9 +49,9 @@
 # print(message)
 
 #with f string to make combined lines are easy:
-# greeting = 'Hello'
-# name = 'Prakash'
-#
-# message = f'{greeting}, {name}. Welcome!'
-# print(message)
+greeting = 'Hello'
+name = 'Prakash'
+
+message = f'{greeting}, {name}. Welcome!'
+print(message)
 
