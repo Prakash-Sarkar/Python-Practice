@@ -54,6 +54,39 @@
 # print('education'in courses)
 
 #for and index:
-courses = ['math', 'physics', 'science', 'art']
-for index, item in enumerate(courses, start=1):
-    print(index, item)
+# courses = ['math', 'physics', 'science', 'art']
+# for index, item in enumerate(courses, start=1):
+#     print(index, item)
+
+#how to use 'join' function:
+# courses = ['math', 'physics', 'science', 'art']
+# course_str = '-'.join(courses)
+# print(course_str)
+
+#Tuples are immutable:
+# tuple_1 = ('math', 'physics', 'science', 'art')
+# tuple_2 = tuple_1
+#
+# # print (tuple_1)
+# # print (tuple_2)
+#
+# tuple_1[0] = 'art'
+#
+# print (tuple_1)
+# print (tuple_2)
+
+#sets:
+# cs_courses = {'math', 'physics', 'english', 'computer'}
+# art_courses = {'education', 'math', 'english', 'design'}
+#
+# print(cs_courses.intersection(art_courses))
+
+# cs_courses = {'math', 'physics', 'english', 'computer'}
+# art_courses = {'education', 'math', 'english', 'design'}
+#
+# print(cs_courses.difference(art_courses))
+
+cs_courses = {'math', 'physics', 'english', 'computer'}
+art_courses = {'education', 'math', 'english', 'design'}
+
+print(cs_courses.union(art_courses))
