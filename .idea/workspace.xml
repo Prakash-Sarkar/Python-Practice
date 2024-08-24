@@ -41,6 +41,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Python.Conditionals and Booleans.executor": "Run",
+    "Python.Loops and Iterations.executor": "Run",
     "Python.Numeric Data.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.lists,tuples and sets.executor": "Run",
