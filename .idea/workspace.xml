@@ -47,6 +47,7 @@
     "Python.Numeric Data.executor": "Run",
     "Python.Slicing Lists and Strings.executor": "Run",
     "Python.Sorting.executor": "Run",
+    "Python.String formatting.executor": "Run",
     "Python.dictionaries.executor": "Run",
     "Python.lists,tuples and sets.executor": "Run",
     "Python.strings.executor": "Run",
