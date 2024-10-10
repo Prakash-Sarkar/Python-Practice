@@ -43,6 +43,7 @@
     "Python.Comprehensions.executor": "Run",
     "Python.Conditionals and Booleans.executor": "Run",
     "Python.Functions.executor": "Run",
+    "Python.Generate Random Numbers.executor": "Run",
     "Python.Loops and Iterations.executor": "Run",
     "Python.Numeric Data.executor": "Run",
     "Python.Slicing Lists and Strings.executor": "Run",
